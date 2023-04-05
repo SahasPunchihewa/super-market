@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuperMarket</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="save_to_db">Save To DB</string>
+    <string name="retrieve_all">Retrieve All</string>
+</resources>
